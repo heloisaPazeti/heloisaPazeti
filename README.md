@@ -14,16 +14,52 @@
 ##
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height=200 width=400 src="https://github-readme-stats.vercel.app/api?username=heloisaPazeti&show_icons=true&theme=neon" />
-</a>      
+  <img align="center" height="136" width="512" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/BestProjectsFinal.png"/>
 </p>
 
-### <p align="center">Best Projects</p>
+<p>
+  <a href="https://github.com/heloisaPazeti/UnityMechanics2D">
+  <img align="left" height="150" width="150" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/UnityProjectImage.png" />
+  </a>
 
-<p align="center"><a href="https://github.com/heloisaPazeti/UnityMechanics2D">Unity Mechanics 2D</a></p>
-<p align="center"><a href="https://github.com/heloisaPazeti/SpaceWar">Space War - Unity 2D Game</a></p>
-<p align="center">Pac Man in C</p>
+  <br>
+  
+  ### Unity Mechanics 2D
 
+  A compilation of various mechanics to use in 2D games in Unity in C#
 
+  <br>
 
+</p>
+
+<p>
+  
+  <a href="https://github.com/heloisaPazeti/SpaceWar">
+  <img align="left" height="150" width="150" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/SpaceWarIcon.png" />
+  </a>
+
+  <br>
+  
+  ### Space War - Unity 2D Game
+
+  Infinite "racing" game in space. A small test of mechanics in Unity for a mobile game. Find the apk <a href="https://singularityy.itch.io/space-war">here</a>.
+
+  <br>
+  
+</p>
+
+<p>
+  
+  <a href="https://github.com/heloisaPazeti/PacManC/tree/main">
+  <img align="left" height="150" width="150" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/PacManCIcon.png" />
+  </a>
+
+  <br>
+  
+  ### Pac Man in C
+
+  Final work of Introduction to Computer Science. Pac Man In ASCII developed in C.
+
+  <br>
+  
+</p>
