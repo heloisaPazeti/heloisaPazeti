@@ -51,7 +51,7 @@
 <p>
   
   <a href="https://github.com/heloisaPazeti/PacManC/tree/main">
-  <img align="left" height="150" width="150" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/PacManCIcon.png" />
+  <img align="left" height="150" width="150" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/DataStructure.png" />
   </a>
 
   <br>
