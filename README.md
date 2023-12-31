@@ -56,9 +56,9 @@
 
   <br>
   
-  ### Pac Man in C
+  ### Data Structure C
 
-  Final work of Introduction to Computer Science. Pac Man In ASCII developed in C.
+  Compilation of different types of data structures in C.
 
   <br>
   
