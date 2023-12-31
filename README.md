@@ -17,49 +17,47 @@
   <img align="center" height="136" width="512" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/BestProjectsFinal.png"/>
 </p>
 
+
+
+<p>  
+  <a href="https://github.com/heloisaPazeti/EstruturaDeDados">
+  <img align="left" height="150" width="150" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/DataStructure.png" />
+  </a>
+  <br>
+  
+  ### Data Structure C
+  Compilation of different types of data structures in C. Find the structures <a href="https://github.com/heloisaPazeti/EstruturaDeDados">here</a>.
+  
+  <br>
+</p>
+
+
+
+
 <p>
   <a href="https://github.com/heloisaPazeti/UnityMechanics2D">
   <img align="left" height="150" width="150" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/UnityProjectImage.png" />
   </a>
-
   <br>
   
   ### Unity Mechanics 2D
-
-  A compilation of various mechanics to use in 2D games in Unity in C#
-
+  A compilation of various mechanics to use in 2D games in Unity in C#. Find the mechanics <a href="https://github.com/heloisaPazeti/UnityMechanics2D">here</a>.
+  
   <br>
-
 </p>
 
+
+
 <p>
-  
   <a href="https://github.com/heloisaPazeti/SpaceWar">
   <img align="left" height="150" width="150" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/SpaceWarIcon.png" />
   </a>
-
   <br>
   
   ### Space War - Unity 2D Game
-
   Infinite "racing" game in space. A small test of mechanics in Unity for a mobile game. Find the apk <a href="https://singularityy.itch.io/space-war">here</a>.
-
-  <br>
   
+  <br>
 </p>
 
-<p>
-  
-  <a href="https://github.com/heloisaPazeti/PacManC/tree/main">
-  <img align="left" height="150" width="150" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/DataStructure.png" />
-  </a>
 
-  <br>
-  
-  ### Data Structure C
-
-  Compilation of different types of data structures in C.
-
-  <br>
-  
-</p>
