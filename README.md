@@ -21,7 +21,7 @@
 
 <p>  
   <a href="https://github.com/heloisaPazeti/EstruturaDeDados">
-  <img align="left" height="150" width="150" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/DataStructure.png" />
+  <img align="left" height="180" width="180" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/DataStructure.png" />
   </a>
   <br>
   
@@ -32,30 +32,31 @@
 </p>
 
 
-
-
+<br>
+<br>
 <p>
   <a href="https://github.com/heloisaPazeti/UnityMechanics2D">
-  <img align="left" height="150" width="150" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/UnityProjectImage.png" />
+  <img align="left" height="180" width="180" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/UnityProjectImage.png" />
   </a>
   <br>
   
-  ### Unity Mechanics 2D
-  A compilation of various mechanics to use in 2D games in Unity in C#. Find the mechanics <a href="https://github.com/heloisaPazeti/UnityMechanics2D">here</a>.
+  ### Unity Projects
+  <a href="https://github.com/heloisaPazeti/UnityMechanics2D">Mechanics.</a><br>
+  <a href="https://github.com/heloisaPazeti/DialogSystemTest">Dialog System.</a><br>
+  <a href="https://github.com/heloisaPazeti/SpaceWar">Space War - Infinity Run.</a><br>
+  <a href="https://github.com/heloisaPazeti/Unity-Turn-Based-Game">Turn Based Game.</a><br>
   
   <br>
 </p>
 
-
-
 <p>
   <a href="https://github.com/heloisaPazeti/SpaceWar">
-  <img align="left" height="150" width="150" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/SpaceWarIcon.png" />
+  <img align="left" height="180" width="180" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/SpaceWarIcon.png" />
   </a>
   <br>
   
-  ### Space War - Unity 2D Game
-  Infinite "racing" game in space. A small test of mechanics in Unity for a mobile game. Find the apk <a href="https://singularityy.itch.io/space-war">here</a>.
+  ### Python Projects
+  <a href="https://github.com/heloisaPazeti/Calc_Numeric">Data Analysis and Mathematical Functions.</a><br>
   
   <br>
 </p>
