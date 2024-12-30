@@ -44,7 +44,7 @@
 <br>
 <p>  
   <a href="https://github.com/heloisaPazeti/EstruturaDeDados">
-  <img align="left" height="180" width="180" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/DataStructure.png" />
+  <img align="left" height="180" width="180" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/Cplusplus.png" />
   </a>
   
   ### C++ Projects
