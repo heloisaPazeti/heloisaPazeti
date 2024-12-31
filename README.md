@@ -20,7 +20,7 @@
   
   ### Python Projects
   &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://github.com/heloisaPazeti/Calc_Numeric">Data Analysis and Mathematical Functions.</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <a href="">Machine Learning Basics.</a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://github.com/heloisaPazeti/Machine_Learning_Basics/blob/main/README.md">Machine Learning Basics.</a><br>
   
   <br>
 </p>
