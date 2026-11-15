@@ -1,75 +1,71 @@
 <p align="center">
-<img align="center"src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/Welcome4.gif"/>
+<img align="center" height="100%" width="50%" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/Welcome4.gif"/>
 </p>
 
 ##
 
-### Languages
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<h3 align="center">Hello, I'm Heloisa Pazeti!</h3>
+
+<p align="center">
+  I'm a Computer Engineering student at the <b>University of São Paulo (USP)</b>,<br>
+  currently on an exchange program at <b>École nationale supérieure d'arts et métiers (ENSAM)</b>.<br>
+  Take a look at some of my best work below!
+</p>
+
+<p align="center">
+  <b>Living in:</b> France <br> 
+  <b>Languages:</b> Portuguese (Native), English (Fluent), French (Fluent)
+</p>
+
+<p align="center">
+  <a href="mailto:helo.pazeti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;<a href="https://www.linkedin.com/in/heloisa-pazeti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ##
 
 <p align="center">
-  <img align="center" height="136" width="512" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/BestProjectsFinal.png"/>
+  <img height="136" width="512" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/BestProjectsFinal.png"/>
 </p>
 
-<p>
-  <a href="https://github.com/heloisaPazeti/SpaceWar">
-  <img align="left" height="180" width="180" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/SpaceWarIcon.png" />
-  </a>
-  
-  ### Python Projects
-  &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://github.com/heloisaPazeti/Calc_Numeric">Data Analysis and Mathematical Functions.</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://github.com/heloisaPazeti/Machine_Learning_Basics/tree/main">Machine Learning Basics.</a><br>
-  
-  <br>
-</p>
-<br>
-<br>
-<br>
+<!-- ========== C ========== -->
+<a href="https://github.com/heloisaPazeti/EstruturaDeDados"><img align="left" height="180" width="180" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/DataStructure.png"/></a>
 
-<p>  
-  <img align="left" height="180" width="180" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/DataStructure.png" />
-  </a>
-  
-  ### C Projects
-  &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://github.com/heloisaPazeti/EstruturaDeDados">Data Structures</a>.<br>
-  
-  <br>
-</p>
+### C Projects
 
+- [Data Structures](https://github.com/heloisaPazeti/EstruturaDeDados)
 
-<br>
-<br>
-<br>
-<p>  
-  <a href="https://github.com/heloisaPazeti/EstruturaDeDados">
-  <img align="left" height="180" width="180" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/Cplusplus.png" />
-  </a>
-  
-  ### C++ Projects
-  &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://github.com/heloisaPazeti/Basic_Cplusplus_Lessons/tree/main">Basic C++ Lessons</a>.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://github.com/drdbrioso/trabalhoFinalPOO2024">Basic RPG</a>.<br>
-  
-  <br>
-</p>
+<br clear="left"/>
 
+<!-- ========== C++ ========== -->
+<a href="https://github.com/heloisaPazeti/Basic_Cplusplus_Lessons"><img align="left" height="180" width="180" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/Cplusplus.png"/></a>
 
-<br>
-<br>
-<br>
+### C++ Projects
 
-<p>
-  <a href="https://github.com/heloisaPazeti/UnityMechanics2D">
-  <img align="left" height="180" width="180" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/UnityProjectImage.png" />
-  </a>
-  
-  ### C# And Unity Projects
-  &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://github.com/heloisaPazeti/UnityMechanics2D">Mechanics.</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://github.com/heloisaPazeti/DialogSystemTest">Dialog System.</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://github.com/heloisaPazeti/SpaceWar">Space War - Infinity Run.</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;- <a href="https://github.com/heloisaPazeti/Unity-Turn-Based-Game">Turn Based Game.</a><br>
-  <br>
-</p>
+- [Basic C++ Lessons](https://github.com/heloisaPazeti/Basic_Cplusplus_Lessons/tree/main)
+- [Basic RPG](https://github.com/drdbrioso/trabalhoFinalPOO2024)
+
+<br clear="left"/>
+
+<!-- ========== C# / UNITY ========== -->
+<a href="https://github.com/heloisaPazeti/UnityMechanics2D"><img align="left" height="180" width="180" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/UnityProjectImage.png"/></a>
+
+### C# And Unity Projects
+
+- [Mechanics](https://github.com/heloisaPazeti/UnityMechanics2D)
+- [Dialog System](https://github.com/heloisaPazeti/DialogSystemTest)
+- [Space War - Infinity Run](https://github.com/heloisaPazeti/SpaceWar)
+- [Turn Based Game](https://github.com/heloisaPazeti/Unity-Turn-Based-Game)
+
+<br clear="left"/>
+
+<!-- ========== PYTHON ========== -->
+<a href="https://github.com/heloisaPazeti/Calc_Numeric"><img align="left" height="180" width="180" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/SpaceWarIcon.png"/></a>
+
+### Python Projects
+
+- [Data Analysis and Mathematical Functions](https://github.com/heloisaPazeti/Calc_Numeric)
+- [Machine Learning Basics](https://github.com/heloisaPazeti/Machine_Learning_Basics/tree/main)
+
+<br clear="left"/>
 
 
