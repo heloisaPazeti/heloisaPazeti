@@ -24,7 +24,7 @@
 ##
 
 <p align="center">
-  <img height="136" width="512" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/BestProjectsFinal.png"/>
+  <img height="136" width="512" src="https://github.com/heloisaPazeti/heloisaPazeti/blob/main/images/BestProjectsFinal.png"/>
 </p>
 
 <!-- ========== C ========== -->
